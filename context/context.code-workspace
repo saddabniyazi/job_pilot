@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "context",
+			"path": "."
+		},
+		{
+			"name": "job_pilot",
+			"path": "../../Desktop/job_pilot"
+		},
+		{
+			"name": "public",
+			"path": "../public"
+		}
+	],
+	"settings": {}
+}
